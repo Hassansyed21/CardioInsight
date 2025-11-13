@@ -25,7 +25,7 @@ Project Workflow
 Setup Instructions
 
 1.  Clone the Repository
-     git clone [https://github.com/Hassansyed21/Cardiolnsight.git](https://github.com/Hassansyed21/Cardiolnsight.git) cd Cardiolnsight
+     git clone https://github.com/Hassansyed21/CardioInsight cd Cardiolnsight
  
 2. Install Dependencies
     pip install -r requirements.txt
